@@ -2,3 +2,5 @@ class/*
 env/*
 testing/*
 main copy.py
+shaders/vertex_shader.vs
+shaders/fragment_shader.fs
