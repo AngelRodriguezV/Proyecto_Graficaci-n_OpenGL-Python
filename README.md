@@ -12,3 +12,8 @@ Instalar las librerias
 ```
 pip install -r requirements.txt
 ```
+Instalar las librerias de OpenGL
+```
+pip install C:/../PROYECT-PYOPENGL-Z/libs/PyOpenGL_accelerate-3.1.6-cp310-cp310-win_amd64.whl
+pip install C:/../PROYECT-PYOPENGL-Z/libs/PyOpenGL-3.1.6-cp310-cp310-win_amd64.whl
+```
